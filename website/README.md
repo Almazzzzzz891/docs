@@ -1,6 +1,6 @@
 # Signum Video - Website
 ### Навигация
-- [API](api/README.md)
+- [API](api)
   - [Примеры](api/examples.md)
 
 ## **Получение прямой трансляции с камеры**

@@ -3,5 +3,5 @@
 
 ## Навигация
 - [Сайт](website)
-  - [API](website/api/README.md)
+  - [API](website/api)
     - [Примеры](website/api/examples.md)
