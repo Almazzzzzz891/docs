@@ -1,4 +1,4 @@
 # Signum Video - Website
 ### Навигация
-- [API](api)
-  - [Примеры](api/examples.md)
+- [API](api.md)
+  - [Примеры](api-examples.md)

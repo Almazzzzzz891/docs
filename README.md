@@ -3,5 +3,6 @@
 
 ## Навигация
 - [Сайт](website)
-  - [API](website/api)
-    - [Примеры](website/api/examples.md)
+  - [Авторизация](website/auth.md)
+  - [API](website/api.md)
+    - [Примеры](website/api-examples.md)
